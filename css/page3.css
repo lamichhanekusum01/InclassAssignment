@@ -67,6 +67,11 @@ li {
 }
 
 footer {
-    margin-top: 30px;
-    color: #888;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
